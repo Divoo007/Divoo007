@@ -1,3 +1,5 @@
-Hello, My name is
+Hello, my name is
 
- <script type='text/javascript' src="typing.js"></script>
+<p id="simpleUsage"></p>
+
+<script src="typing.js">
