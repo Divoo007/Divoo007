@@ -1,6 +1,1 @@
-Hello, my name is
-
-<p id="simpleUsage"></p>
-
-<script src="typing.js"> 
-</script>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
