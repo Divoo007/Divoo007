@@ -1,3 +1,3 @@
 Hello, My name is
 
- <script src="typing.js"></script>
+ <script type='text/javascript' src="typing.js"></script>
