@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chancery&size=50&pause=2000&color=F7E000&multiline=true&width=435&lines=I'm+Divyansh+Dwivedi!)](https://git.io/typing-svg)
 
+<br/>
+<br/>
 ```
 class Divyansh(models.Model, Developer):
     name = models.Charfield('Divyansh Dwivedi')
