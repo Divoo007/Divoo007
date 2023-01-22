@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chancery&size=30&pause=1000&color=F7AF01&width=435&lines=I'm+Divyansh+Dwivedi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chancery&size=30&pause=1000&color=F7AF01&width=435&lines=I'm+Divyansh+Dwivedi)]
 
 
 
@@ -23,4 +23,4 @@ class Divyansh(models.Model, Developer):
     return 'Thats all. Striving to be a professional developer in machine learning.'
 ```
 
-Most of my repositories are private. If you are looking for a project of mine, you wont find it here. I like to keep all my repositories private until the final submission of the code is finished!
+
