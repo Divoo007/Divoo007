@@ -5,7 +5,7 @@
 class Divyansh(models.Model, Developer):
     name = models.Charfield('Divyansh Dwivedi')
     Job = models.Charfield('Jobless')
-    Education = models.Charfield('NPS INR (9th)')
+    Education = models.Charfield('NPS INR (10B)')
     def Interests(self):
         self.one = Machine Learning
         self.two = Web and app development
