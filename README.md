@@ -27,7 +27,8 @@ class Divyansh(models.Model, Developer):
         self.learning = 'Unity'
     return 'Thats all. Striving to be a professional developer in machine learning.'
     Most of my repositories are private. If you are looking for a project of mine, you wont find it here. I like
-    to keep all my repositories private until the final submission of the code is finished!
+    to keep all my repositories private.
+
 ```
 
 
